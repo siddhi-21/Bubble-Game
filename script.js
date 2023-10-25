@@ -48,7 +48,7 @@ document.querySelector("#panelBottom").addEventListener("click",function(details
     scoreMaker();
     hitMaker();
     details.target.style.background="#f19fd0a9";
-  
+   details.target.style.visibility="hidden";
    }
 
   
